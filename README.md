@@ -1,0 +1,1 @@
+The dataset is about software code metrics and defect prediction. Each row represents a different piece of software or code snippet, while each column provides various metrics or characteristics of that code. The last column, "defects," indicates whether there are defects present in the code (TRUE) or not (FALSE).
